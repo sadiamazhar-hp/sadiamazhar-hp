@@ -4,7 +4,7 @@
   <img src="https://i.pinimg.com/originals/8b/35/fe/8b35fef55fba1a201c9c7a11d3ec3d64.gif" alt="GIF">
 </p>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=sadiamazhar-hp&label=Profile%20views&color=0e75b6&style=flat" alt="sadiamazhar-hp" /> </p>
+
 
 - 🔭 I’m currently working on **Financial Investor App**
 
